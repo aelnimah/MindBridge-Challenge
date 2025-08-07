@@ -35,7 +35,7 @@ I built an end-to-end ML pipeline focused on **maximizing fraud detection perfor
 
 | Metric                    | Score     |
 |---------------------------|-----------|
-| **Fraud Detection AP**    | **0.8364**
+| **Fraud Detection AP**    | **0.8364** (vs. 0.82 Baseline)
 | **Digit Anomaly AP**      | 0.0682  
 | **Improvement**           | +1.6% PR-AUC over baseline  
 
